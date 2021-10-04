@@ -36,23 +36,22 @@
 ---
 
 ## 前端基础知识
+1. [浏览器Browser](https://github.com/zptime/blog/issues/19)
 
-### [浏览器Browser](https://github.com/zptime/blog/issues/19)
+2. [网络Network](https://github.com/zptime/blog/issues/23)
 
-### [网络Network](https://github.com/zptime/blog/issues/23)
+3. [HTML](https://github.com/zptime/blog/issues/18)
 
-### [HTML](https://github.com/zptime/blog/issues/18)
+4. [CSS](https://github.com/zptime/blog/issues/17)
 
-### [CSS](https://github.com/zptime/blog/issues/17)
+5. [JS](https://github.com/zptime/blog/issues/22)
 
-### [JS](https://github.com/zptime/blog/issues/22)
+6. [ES6](https://github.com/zptime/blog/issues/20)
 
-### [ES6](https://github.com/zptime/blog/issues/20)
+7. [Vue](https://github.com/zptime/blog/issues/21)
 
-### [Vue](https://github.com/zptime/blog/issues/21)
+8. [Webpack](https://github.com/zptime/blog/issues/26)
 
-### [Webpack](https://github.com/zptime/blog/issues/26)
+9. [NodeJS](https://github.com/zptime/blog/issues/24)
 
-### [NodeJS](https://github.com/zptime/blog/issues/24)
-
-### [WebGL](https://github.com/zptime/blog/issues/25)
+10. [WebGL](https://github.com/zptime/blog/issues/25)

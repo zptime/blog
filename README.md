@@ -55,3 +55,5 @@
 9. [NodeJS](https://github.com/zptime/blog/issues/24)
 
 10. [WebGL](https://github.com/zptime/blog/issues/25)
+
+其他人的面试准备：[最强前端面试资源](https://github.com/whylisa/front-end-interview)

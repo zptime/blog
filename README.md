@@ -56,4 +56,6 @@
 
 10. [WebGL](https://github.com/zptime/blog/issues/25)
 
-其他人的面试准备：[最强前端面试资源](https://github.com/whylisa/front-end-interview)
+### 其他人的面试准备
+1. [最强前端面试资源](https://github.com/whylisa/front-end-interview)
+2. [web前端面试 - 面试官系列](https://vue3js.cn/interview/)

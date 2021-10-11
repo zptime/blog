@@ -4,6 +4,10 @@
 
 [掘金地址](https://juejin.cn/user/3149460610221336/posts)
 
+## Nuxtjs
+
+[Nuxt + kao](https://github.com/zptime/nuxt-koa-project/blob/master/README.md)
+
 ## 从零搭建后台管理系统
 
 1. [Vite + TypeScript + Ant Design Vue 搭建后台管理系统（一）](https://github.com/zptime/shanglv-vite-antdv/blob/main/readme/FIRST.md)

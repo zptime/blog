@@ -39,6 +39,10 @@
 
 ---
 
+## 资源收集
+
+- [Mac下VSCode快捷键](https://gist.github.com/wxingheng/e3fc8bb470db102bc12c3cfcaabdcfae)
+
 ## 前端基础知识
 1. [浏览器Browser](https://github.com/zptime/blog/issues/19)
 
